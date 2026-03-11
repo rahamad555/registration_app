@@ -33,16 +33,13 @@ Provider (State Management)
 
 
 
-lib/
-├── models/
-│   └── registrant_model.dart
-├── providers/
-│   └── registration_provider.dart
-├── pages/
-│   ├── registration_page.dart
-│   ├── registrant_list_page.dart
-│   └── registrant_detail_page.dart
-└── main.dart
+
+
+
+<img width="654" height="415" alt="image" src="https://github.com/user-attachments/assets/d82afc42-f7a9-4c3f-b960-836b10804353" />
+
+
+
 
 
 
